@@ -8,30 +8,28 @@ export default function Hero() {
       <div className="container mx-auto px-4 md:px-8 lg:px-12 relative z-10">
         <div className="max-w-4xl mx-auto text-center">
           <h1 className="text-[2.5rem] leading-[1.15] md:text-5xl lg:text-6xl font-bold text-white mb-5 md:mb-6">
-            WhatsApp no Campo.{' '}
+            E se você pudesse fazer{' '}
             <span className="block mt-1 md:mt-2 bg-gradient-to-r from-[#e8ff80] to-[#d4e670] bg-clip-text text-transparent">
-              Relatório na Mão.
+              relatórios pelo WhatsApp?
             </span>
           </h1>
 
           <p className="text-base md:text-lg lg:text-xl text-gray-300 mb-7 md:mb-8 max-w-2xl mx-auto leading-relaxed">
-            Transforme notas de campo em relatórios profissionais sem digitação. Fale, fotografe, a IA organiza tudo pra você. Funciona até offline.
+            Imagine documentar visitas técnicas direto do campo: fala por áudio, tira foto, e recebe um relatório profissional em PDF. Sem digitação. Sem complicação.
           </p>
 
           <div className="flex flex-col sm:flex-row gap-3 md:gap-4 justify-center mb-3 md:mb-4">
             <a
-              href="https://wa.me/5511920483501?text=oi"
-              target="_blank"
-              rel="noopener noreferrer"
-              onClick={() => trackCTAClick('testar_gratis_whatsapp', 'hero')}
+              href="#pricing"
+              onClick={() => trackCTAClick('quero_acesso_antecipado', 'hero')}
               className="bg-[#e8ff80] text-[#02152b] px-6 py-4 md:px-8 md:py-4 rounded-lg hover:bg-[#d4e670] transition-all font-bold text-base md:text-base shadow-lg shadow-[#e8ff80]/20 hover:shadow-xl hover:shadow-[#e8ff80]/30 active:scale-95 md:hover:scale-105"
             >
-              Testar Grátis no WhatsApp
+              Quero Acesso Antecipado
             </a>
           </div>
 
           <p className="text-sm md:text-sm text-gray-400">
-            2 relatórios grátis para você testar
+            <span className="text-[#e8ff80] font-semibold">Bônus:</span> Testes gratuitos + descontos exclusivos de lançamento
           </p>
         </div>
       </div>

@@ -4,10 +4,10 @@ export default function HowItWorks() {
       <div className="container mx-auto px-4 md:px-8 lg:px-12">
         <div className="max-w-3xl mx-auto text-center mb-8 md:mb-12">
           <h2 className="text-2xl md:text-3xl lg:text-4xl font-bold text-white mb-3 md:mb-4 leading-tight">
-            Veja como profissionais do agro como você estão documentando visitas
+            Veja como o Campota vai transformar suas visitas técnicas
           </h2>
           <p className="text-base md:text-lg text-gray-300 leading-relaxed">
-            Descubra na prática como o Campota simplifica seu dia a dia no campo
+            Assista como será simples documentar tudo direto do campo, pelo WhatsApp
           </p>
         </div>
 

@@ -8,7 +8,7 @@ import Footer from '@/components/layout/Footer';
 export const metadata = {
   title: 'Campota - Relatórios Técnicos via WhatsApp com IA',
   description:
-    'Documente visitas técnicas no campo via WhatsApp. Nossa IA transforma textos, áudios e fotos em relatórios profissionais PDF em 3 minutos. Comece grátis!',
+    'Imagine documentar visitas técnicas direto do campo via WhatsApp. IA que transforma áudios e fotos em relatórios profissionais PDF em minutos. Acesso antecipado disponível!',
   keywords:
     'relatório técnico, whatsapp, agronomia, veterinária, visita técnica, IA, agronegócio, brasil',
 };
